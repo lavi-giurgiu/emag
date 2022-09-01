@@ -131,12 +131,13 @@ nav i.fa-bars {
 }
 
 .menu-item-products {
-  background-color: white;
-  color: #000;
   border-radius: 5px 5px 0 0;
   margin-bottom: 0;
   margin-left: 0;
+  background-color: white;
+  color: #000;
   font-weight: 500;
+  z-index: 10;
 }
 
 .menu-item-products i.fa-bars {
